@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montreal Athletic Therapy</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Montreal Athletic Therapy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>http://example.com/intro/</link>
+      <pubDate>Mon, 26 Nov 2018 00:58:24 -0500</pubDate>
+      
+      <guid>http://example.com/intro/</guid>
+      <description>Hey, thanks for stopping by. I&amp;rsquo;m Dan, a Montreal-based certified athletic therapist. Recovering from a sprained ankle or shoulder injury? Dealing with chronic low back or neck pain that won&amp;rsquo;t go away? I can help. I provide empathetic, patient-based care that is focused on empowering you and helping you reach your goals. Don&amp;rsquo;t wait to feel better, get in touch today!</description>
+    </item>
+    
+    <item>
+      <title>Hours</title>
+      <link>http://example.com/hours/</link>
+      <pubDate>Mon, 26 Nov 2018 00:55:42 -0500</pubDate>
+      
+      <guid>http://example.com/hours/</guid>
+      <description>Sunday - Thursday: 7am - 8pm Friday: 7am - 1pm Saturday: Closed  All visits by appointment only</description>
+    </item>
+    
+    <item>
+      <title>Rates</title>
+      <link>http://example.com/rates/</link>
+      <pubDate>Mon, 26 Nov 2018 00:55:28 -0500</pubDate>
+      
+      <guid>http://example.com/rates/</guid>
+      <description>1 hour assessment - $80 1 hour treatment - $75 Field event coverage - $25/h  Insurance receipts available</description>
+    </item>
+    
+    <item>
+      <title>Field Coverage</title>
+      <link>http://example.com/field/</link>
+      <pubDate>Mon, 26 Nov 2018 00:55:05 -0500</pubDate>
+      
+      <guid>http://example.com/field/</guid>
+      <description>Are you looking for someone to cover a football practice, soccer game, or martial-arts tournament? I provide pre-event tapings, emergency first-aid, and injury assessment and management. I hold a Sports First Responder certification from the Canadian Red Cross (Oct 2017)</description>
+    </item>
+    
+    <item>
+      <title>What is Athletic Therapy?</title>
+      <link>http://example.com/athletictherapy/</link>
+      <pubDate>Mon, 26 Nov 2018 00:54:51 -0500</pubDate>
+      
+      <guid>http://example.com/athletictherapy/</guid>
+      <description>&amp;ldquo;A Certified Athletic Therapist (CAT&amp;copy;) is a health care practitioner skilled in the prevention, identification, intervention, management and treatment of emergency, acute and chronic musculoskeletal conditions and injuries to the physically active sustained either at work or through involvement in recreational or sporting activities.
+A Certified Athletic Therapist optimizes the ability of professional and amateur athletes, or any active individual to perform at their best through sport specific training, injury prevention and rehabilitation for rapid return to work or play.</description>
+    </item>
+    
+    <item>
+      <title>Clinic</title>
+      <link>http://example.com/clinic/</link>
+      <pubDate>Mon, 26 Nov 2018 00:54:31 -0500</pubDate>
+      
+      <guid>http://example.com/clinic/</guid>
+      <description>Assessments are the foundation of any treatment protocol. My assessments are full-body, and look to identify dysfunctional as well as painful movement. This is based on the concept that an injury in one part of the body can result from a dysfunction / restriction elsewhere. My assessments are also functional and take into account your sport or activities of daily living.
+My treatments typically combine manual therapy (massage, soft tissue release, myofascial release, joint mobilizations, muscle energy techniques, PNF stretching), activity modification, and exercise.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://example.com/about/</link>
+      <pubDate>Mon, 26 Nov 2018 00:44:50 -0500</pubDate>
+      
+      <guid>http://example.com/about/</guid>
+      <description>Dan Wolfe (BA, BSc, CAT, SFR) is an athletic therapist working in the Montreal area. He graduated with distinction from Concordia University with a degree in Exercise Science, and certified as an athletic therapist in June 2018. As part of his training, Dan completed clinic internships in local community and high-performance clinics. He has extensive field experience, having covered sports as varied as karate, wrestling, football, hockey, soccer, and more.</description>
+    </item>
+    
+  </channel>
+</rss>
